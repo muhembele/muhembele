@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that  require go or nodejs for backend.
 - 📫 How to reach me muhembelev@gmail.com
 - 😄 Pronouns: ..
-- ⚡ Fun fact: ...lets juggle a little bit about mat...
+- ⚡ Fun fact: Let’s juggle a bit of math while coding — it's more fun than it sounds!
 
 <!---
 muhembele/muhembele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
